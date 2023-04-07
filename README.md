@@ -13,8 +13,8 @@ I am a Bachelor of Technology student majoring in Information Technology at Nati
 
 Languages: [<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>](https://en.cppreference.com/w/) 
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://docs.python.org/3/) 
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://docs.oracle.com/en/java/) 
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>](https://en.cppreference.com/w/c/language) 
+[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>](https://en.cppreference.com/w/c/language)
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://docs.oracle.com/en/java/)  
 [<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [<img src="https://img.icons8.com/color/48/000000/xml-file.png"/>](https://www.w3.org/XML/)
 
