@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a Bachelor of Technology student majoring in Information Technology at National Institute of Technology Karnataka, with a minor in Machine Learning. I have a strong passion for programming and a keen interest in the field of Machine Learning and Data Science. 
+I am a Bachelor of Technology student majoring in Information Technology at National Institute of Technology Karnataka, with a minor in Machine Learning. 
 
 ## Skills
 
