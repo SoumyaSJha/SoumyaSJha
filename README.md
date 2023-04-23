@@ -9,7 +9,6 @@
 ```javascript
 const soumya = {
     name: "Soumya Sangam Jha",
-    phone: "+918826656802",
     email: "soumyajha126@gmail.com",
     linkedin: "http://www.linkedin.com/in/soumyasj",
     github: "https://github.com/SoumyaSJha",
