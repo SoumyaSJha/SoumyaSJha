@@ -1,22 +1,27 @@
-<h1 align="center"> Hi, I'm Soumya </h1>
+<h2 ><img src="https://media.tenor.com/6aNDWPF18CkAAAAM/star-tamtl%C4%B1.gif" width="100"/> I'm Soumya!!</h2>
+<img align='right' src="https://media.tenor.com/v3Kzb5rlFdgAAAAC/mochi-cute.gif" width="230">
+<p ><em>NITK'25 IT with minors in ML 
+</p>
 
 
+###  A little about me... <img src="https://media3.giphy.com/media/MeIucAjPKoA120R7sN/giphy.gif" width="50">
 
-<p align="center">
-  NITK'25 IT with minors in ML</p>
-
-<p><b> Languages:</b></p>
-
-[<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>](https://en.cppreference.com/w/) 
-[<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://docs.python.org/3/) 
-[<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>](https://en.cppreference.com/w/c/language)
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://docs.oracle.com/en/java/) [<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-
-<p><b> Tools and Frameworks: </b></p>
-<a href="https://www.kaggle.com/docs"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a> <a href="https://pandas.pydata.org/docs/"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a> <a href="https://numpy.org/doc/"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a> <a href="https://www.scipy.org/docs.html"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/></a> <a href="https://www.tensorflow.org/api_docs"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> <a href="https://jupyter.org/documentation"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a> <a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> <a href="https://developer.apple.com/documentation/xcode"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/></a> <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&color=ff69b4"></a>
-
-<p><b> How to reach me: </p></b>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/soumyasj/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/SoumyaSJha)
+```javascript
+const soumya = {
+    name: "Soumya Sangam Jha",
+    phone: "+918826656802",
+    email: "soumyajha126@gmail.com",
+    linkedin: "http://www.linkedin.com/in/soumyasj",
+    github: "https://github.com/SoumyaSJha",
+    education: {
+        degree: "BTech in IT",
+        minor: "ML",
+        institution: "National Institute of Technology Karnataka (NITK)"
+    },
+    skills: {
+        languages: ["C++", "Python", "C", "Java", "SQL"],
+        frameworks: ["NumPy", "Pandas", "Matplotlib", "Keras", "TensorFlow", "Long Short Term Memory (LSTM) Network", "Autoencoders"],
+        tools: ["VSCode", "Jupyter Notebook", "Kaggle", "Google Colab", "MySQL"]
+    }
+}
+```
