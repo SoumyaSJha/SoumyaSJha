@@ -4,7 +4,7 @@
 </p>
 
 
-###  A little about me... <img src="https://media3.giphy.com/media/MeIucAjPKoA120R7sN/giphy.gif" width="50">
+###  A little about me... 
 
 ```javascript
 const soumya = {
