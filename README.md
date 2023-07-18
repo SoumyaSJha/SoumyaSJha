@@ -13,12 +13,12 @@ const soumya = {
     linkedin: "http://www.linkedin.com/in/soumyasj",
     github: "https://github.com/SoumyaSJha",
     education: {
-        degree: "BTech in IT",
-        minor: "ML",
+        degree: "BTech in Information Technology",
+        minor: "Machine Learning",
         institution: "National Institute of Technology Karnataka (NITK)"
     },
     skills: {
-        languages: ["C++", "Python", "C", "Java", "SQL","HTML","CSS"],
+        languages: ["C++", "Python", "C", "SQL","HTML","CSS"],
         frameworks: ["NumPy", "Pandas", "Matplotlib", "Keras", "TensorFlow", 
                      "Long Short Term Memory (LSTM) Network", "Autoencoders"],
         tools: ["VSCode", "Jupyter Notebook", "Kaggle", "Google Colab", "MySQL"]
