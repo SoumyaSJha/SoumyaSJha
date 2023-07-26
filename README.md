@@ -19,8 +19,6 @@ const soumya = {
     },
     skills: {
         languages: ["C++", "Python", "C", "SQL","HTML","CSS"],
-        frameworks: ["NumPy", "Pandas", "Matplotlib", "Keras", "TensorFlow", 
-                     "Long Short Term Memory (LSTM) Network", "Autoencoders"],
         tools: ["VSCode", "Jupyter Notebook", "Kaggle", "Google Colab", "MySQL"]
     }
 }
